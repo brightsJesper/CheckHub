@@ -1,0 +1,5 @@
+https://github.com/brightsJesper/CheckHub
+
+1.git log 
+2.git rev-list
+3.git init
